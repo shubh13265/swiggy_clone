@@ -1,1 +1,1 @@
-See the frontend clone of swiggy website.
+ the frontend clone of swiggy website using html and css . Mainly focusing on the home pages, product listings and search functionality and including new tab changing option as well when you opt for the states. 
